@@ -1,0 +1,2 @@
+[windows]
+IP/Host-Name ansible_connection=winrm

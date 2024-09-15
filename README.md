@@ -1,4 +1,4 @@
-Repo: data-depot-05
+Repo: ansible-windows-patching
 
 # Ansible for patching Windows Server updates
 
